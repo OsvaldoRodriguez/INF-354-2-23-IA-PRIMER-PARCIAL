@@ -9,7 +9,7 @@
 ## 1. Para conseguir el train 80 y test 20
 
 - Se usara la función random.suffle para cambiar aleatoriamente las columnas, para fines practicos se ejecuto con solo pocos datos (pero funciona con todos los datos del dataset)
-
+- Se hizo con 100 datos de todo el data set
 ![Solucion](https://github.com/OsvaldoRodriguez/INF-354-2-23-IA-PRIMER-PARCIAL/blob/master/PREGUNTA%209/imagen_1.png)
 
 
@@ -21,7 +21,7 @@
 
 ![Solucion](https://github.com/OsvaldoRodriguez/INF-354-2-23-IA-PRIMER-PARCIAL/blob/master/PREGUNTA%209/imagen_3.png)
 
-## 4. Genreando los datos del test por columnas (listos para el entrenamiento)
+## 4. Generando los datos del test por columnas (listos para el entrenamiento)
 
 ![Solucion](https://github.com/OsvaldoRodriguez/INF-354-2-23-IA-PRIMER-PARCIAL/blob/master/PREGUNTA%209/imagen_4.png)
 
