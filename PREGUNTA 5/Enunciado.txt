@@ -1,0 +1,3 @@
+5. Del dataset elegido, migre el mismo a WEKA y utilice cuatro técnicas de preprocesamiento 
+(realice la captura de pantallas de estos por fases). 
+Explique la razón de aplicar estas técnicas.
