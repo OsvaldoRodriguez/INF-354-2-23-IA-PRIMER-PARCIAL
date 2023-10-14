@@ -1,6 +1,6 @@
 # Detalle del Ejercicio
 
-[Enunciado del problema]()
+[Enunciado del problema](https://github.com/OsvaldoRodriguez/INF-354-2-23-IA-PRIMER-PARCIAL/blob/master/PREGUNTA%206/Enunciado.txt)
 
 # Algoritmos de preprocesamiento en Python
 
