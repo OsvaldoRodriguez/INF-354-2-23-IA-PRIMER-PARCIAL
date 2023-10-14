@@ -1,0 +1,6 @@
+en este caso se esta usando el filtro replaceMissingValues
+muchas veces en los dataset, hay columnas que no tienen datos o se los perdio
+y eso puede afectar al entrenamiento, pero con este filtro podemos llenar utilizndo 
+algun criterio (media, promedio, moda, etc) para este caso se utilizo la media
+para el Rating, pues como queremos entrenar al modelo, pues el promedio es buen acercamiento
+para completar los  Rating faltantes

@@ -1,0 +1,3 @@
+la razon de usar el filtro discretizer es porque tenemos variables categoricas discretas (como stars)
+y al dividirlos en rangos, ayuda a simplificar la complejidad de los datos, en este caso se divide en 
+10 bins, de igual rango

@@ -14,8 +14,8 @@
 
 
 - Una vez cargado se puede visualizar el dataset
-![Solucion](https://github.com/OsvaldoRodriguez/INF-354-2-23-IA-PRIMER-PARCIAL/blob/master/PREGUNTA%205/CREAR%20.RAFF/cargando%20csv.jpeg)
 
+![Solucion](https://github.com/OsvaldoRodriguez/INF-354-2-23-IA-PRIMER-PARCIAL/blob/master/PREGUNTA%205/CREAR%20.RAFF/cargando%20csv.jpeg)
 
 - Finalmente se guarda en formado .arff
 

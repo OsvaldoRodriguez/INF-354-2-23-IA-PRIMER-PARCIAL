@@ -1,0 +1,7 @@
+se esta aplicando el filtro
+InterquartileRange dicho filtro utiliza los cuartiles
+cualquier valor X fijado en el filtro si esta por debajo de Q1 y por arriba de Q3
+se considera un valor atipico, es decir aparece rara vez y lo elimina, esto pasa con los
+usuarios que son muy capos a diferencia de los demas, es decir rinden mucho mas, o viceversa
+entonces se borra esos datos y se desea ver el rendimiento promedio de los demas usuarios sin estos
+valores "atipicos"

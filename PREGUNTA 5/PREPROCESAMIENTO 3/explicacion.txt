@@ -1,0 +1,6 @@
+para este preprocesamiento se esta utilizando el filtro
+removeUseless dicho filtro nos permite eliminar los valores que tienen el mismo valor,
+es decir datos que no son utiles para el entrenamiento
+ahora, en el dataset tenemos una columna "users" estos datos es unico para cada fila
+es decir no aporta mucho para el entrenamiento del modelo, por eso se esta eliminando para asi 
+mejorar el rendimiento del modelo
