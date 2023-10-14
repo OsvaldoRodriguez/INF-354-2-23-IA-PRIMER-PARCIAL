@@ -1,4 +1,5 @@
 se esta aplicando el filtro
+
 InterquartileRange dicho filtro utiliza los cuartiles
 cualquier valor X fijado en el filtro si esta por debajo de Q1 y por arriba de Q3
 se considera un valor atipico, es decir aparece rara vez y lo elimina, esto pasa con los
