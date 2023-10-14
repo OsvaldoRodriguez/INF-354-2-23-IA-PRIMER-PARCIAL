@@ -1,17 +1,25 @@
 # Detalle del Ejercicio
 
-[Enunciado del problema]()
+[Enunciado del problema](https://github.com/OsvaldoRodriguez/INF-354-2-23-IA-PRIMER-PARCIAL/blob/master/PREGUNTA%205/Enunciado.txt)
 
-[Código de la solución]()
+## Creación del .arff en Weka
 
-## Etiquetado Simple LabelEncoder
+- Abriendo el archivo .csv para convertirlo a .arff
 
-- Antes de procesar 
+![Solucion](https://github.com/OsvaldoRodriguez/INF-354-2-23-IA-PRIMER-PARCIAL/blob/master/PREGUNTA%205/CREAR%20.RAFF/crearArff.png)
 
-![Solucion]()
+- Identificando el archivo a crear
+
+![Solucion](https://github.com/OsvaldoRodriguez/INF-354-2-23-IA-PRIMER-PARCIAL/blob/master/PREGUNTA%205/CREAR%20.RAFF/archivo%20csv.jpeg)
 
 
-- Depues de procesar 
+- Una vez cargado se puede visualizar el dataset
+![Solucion](https://github.com/OsvaldoRodriguez/INF-354-2-23-IA-PRIMER-PARCIAL/blob/master/PREGUNTA%205/CREAR%20.RAFF/cargando%20csv.jpeg)
 
-![Solucion]()
+
+- Finalmente se guarda en formado .arff
+
+![Solucion](https://github.com/OsvaldoRodriguez/INF-354-2-23-IA-PRIMER-PARCIAL/blob/master/PREGUNTA%205/CREAR%20.RAFF/guardar%20como%20arff.jpeg)
+
+
 
