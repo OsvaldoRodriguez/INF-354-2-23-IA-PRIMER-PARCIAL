@@ -6,13 +6,7 @@ datos = pd.read_csv(url, encoding="unicode_escape", on_bad_lines='skip');
 dataset = datos.to_numpy()
 titles = ['Global Rank', 'Stars', 'Username', 'Country', 'Country Rank', 'Rating', 'Highest Rating', 'Fully Solved', 'Partially Solved', 'Last Contest', 'Institute']
 
-imputar = SimpleImputer(missing_values = np.nan, strategy = 'mean')
-
-# fit -> entrenar
-# fit_transform -> probar
-
 print("DATOS INICIALES\n", datos)
-
 # para recorrer por columnas
 # para este caso se va a considerar el promedio
 for i in range(len(dataset[0])):
