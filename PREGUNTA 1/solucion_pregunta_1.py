@@ -1,3 +1,6 @@
+# Enlace colabs
+# https://colab.research.google.com/drive/1cXcnYpJiWPmOWjbJvUr2BREDt0tLREaQ?usp=sharing
+
 import pandas as pd
 import numpy as np
 
