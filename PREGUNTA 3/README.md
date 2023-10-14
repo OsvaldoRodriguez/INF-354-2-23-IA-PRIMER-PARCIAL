@@ -12,7 +12,8 @@
 
 ## Imputación
 
-- Realizando la imputación con el promedio 
+- Realizando la imputación con el promedio
+ 
     Se estan llenando los valores que no tiene el dataset
 
 ![Solucion](https://github.com/OsvaldoRodriguez/INF-354-2-23-IA-PRIMER-PARCIAL/blob/master/PREGUNTA%203/depues_de_inputacion.png)
