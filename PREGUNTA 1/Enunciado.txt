@@ -1,0 +1,4 @@
+1. Seleccione un dataset de su interés (de cualquier repositorio, que contenga datos tabulares 
+mínimo de 1500 filas y al menos 10 columnas). 
+Realice el cálculo de la media, moda, cuartiles de datos y de percentiles por columna; 
+explique qué significa en cada caso graficando los resultados (sin numpy y pandas).
