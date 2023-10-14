@@ -1,6 +1,7 @@
 import pandas as pd
 import numpy as np
-url = 'https://raw.githubusercontent.com/OsvaldoRodriguez/PRIMER-PARCIAL-INF-354/master/DATASET/codechef2.csv'
+
+url = 'https://raw.githubusercontent.com/OsvaldoRodriguez/INF-354-2-23-IA-PRIMER-PARCIAL/master/DATASET/dataSetCodechefUsers.csv'
 datos = pd.read_csv(url, encoding="unicode_escape", on_bad_lines='skip');
 dataset = datos.to_numpy()
 titles = ['Global Rank', 'Stars', 'Username', 'Country', 'Country Rank', 'Rating', 'Highest Rating', 'Fully Solved', 'Partially Solved', 'Last Contest', 'Institute']
