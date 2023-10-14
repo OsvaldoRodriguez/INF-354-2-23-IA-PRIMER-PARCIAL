@@ -1,0 +1,1 @@
+3. Del dataset elegido realice la imputación por columnas sin scikit-learn.
