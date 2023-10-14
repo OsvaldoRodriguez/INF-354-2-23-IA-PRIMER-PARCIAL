@@ -1,0 +1,2 @@
+6. El dataset elegido en PYTHON, realice tres tecnicas de preprocesamiento. 
+Explique la razón de aplicar estas técnicas.
