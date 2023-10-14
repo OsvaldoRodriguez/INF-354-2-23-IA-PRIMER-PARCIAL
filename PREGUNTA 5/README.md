@@ -86,4 +86,25 @@
 ![Solucion](https://github.com/OsvaldoRodriguez/INF-354-2-23-IA-PRIMER-PARCIAL/blob/master/PREGUNTA%205/PREPROCESAMIENTO%203/resultado%203.jpeg)
 
 
-# 4. Preprocesamiento
+# 4. Preprocesamiento ReplaceMissingValues
+
+
+[Solucion](https://github.com/OsvaldoRodriguez/INF-354-2-23-IA-PRIMER-PARCIAL/blob/master/PREGUNTA%205/PREPROCESAMIENTO%204/explicacion.txt)
+
+- Detalles del filtro
+
+![Solucion](https://github.com/OsvaldoRodriguez/INF-354-2-23-IA-PRIMER-PARCIAL/blob/master/PREGUNTA%205/PREPROCESAMIENTO%204/filter.jpeg)
+
+- Vista general del filtro
+
+![Solucion](https://github.com/OsvaldoRodriguez/INF-354-2-23-IA-PRIMER-PARCIAL/blob/master/PREGUNTA%205/PREPROCESAMIENTO%204/filter%20general.jpeg)
+
+- Antes del filtro
+
+![Solucion](https://github.com/OsvaldoRodriguez/INF-354-2-23-IA-PRIMER-PARCIAL/blob/master/PREGUNTA%205/PREPROCESAMIENTO%204/data%20inicial.jpeg)
+
+- Resultado despues de aplicar el filtro
+
+![Solucion](https://github.com/OsvaldoRodriguez/INF-354-2-23-IA-PRIMER-PARCIAL/blob/master/PREGUNTA%205/PREPROCESAMIENTO%204/resultado%20general.jpeg)
+
+![Solucion](https://github.com/OsvaldoRodriguez/INF-354-2-23-IA-PRIMER-PARCIAL/blob/master/PREGUNTA%205/PREPROCESAMIENTO%204/data%20resultante.jpeg)
