@@ -1,0 +1,1 @@
+4. Aplique a su dataset el etiquetado simple y binario.
