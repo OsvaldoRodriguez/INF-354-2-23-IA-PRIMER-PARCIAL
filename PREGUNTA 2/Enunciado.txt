@@ -1,0 +1,1 @@
+2. Realice lo mismo del inciso anterior con el uso de numpy y pandas
