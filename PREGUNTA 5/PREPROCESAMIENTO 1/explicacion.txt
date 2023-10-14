@@ -1,3 +1,9 @@
 la razon de usar el filtro discretizer es porque tenemos variables categoricas discretas (como stars)
 y al dividirlos en rangos, ayuda a simplificar la complejidad de los datos, en este caso se divide en 
 10 bins, de igual rango
+
+Como en la foto de Resultado, al ver Stars por bins resulta que:
+En el primer bin (-oo, 4,3) estan 5107 usuarios, es decir con clasificacion 4 estrellas estan casi el 
+75% de los usuarios
+En el ulitmo bin (6,7, oo) estan 131 usuarios, lo cual dice que pocos usuarios tienen 7 estrellas
+(es decir pocos son muy buenos programadores)
