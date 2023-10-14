@@ -41,6 +41,30 @@
 
 ![Solucion](https://github.com/OsvaldoRodriguez/INF-354-2-23-IA-PRIMER-PARCIAL/blob/master/PREGUNTA%205/PREPROCESAMIENTO%201/resultado.jpeg)
 
-# 2. Preprocesamiento
+
+# 2. Preprocesamiento InterquartileRange
+
+- Explicación del filtro
+
+[Solucion](https://github.com/OsvaldoRodriguez/INF-354-2-23-IA-PRIMER-PARCIAL/blob/master/PREGUNTA%205/PREPROCESAMIENTO%202/explicacion.txt)
+
+- Detalles del filtro
+
+![Solucion](https://github.com/OsvaldoRodriguez/INF-354-2-23-IA-PRIMER-PARCIAL/blob/master/PREGUNTA%205/PREPROCESAMIENTO%202/filter.jpeg)
+
+- Vista general del filtro
+
+![Solucion](https://github.com/OsvaldoRodriguez/INF-354-2-23-IA-PRIMER-PARCIAL/blob/master/PREGUNTA%205/PREPROCESAMIENTO%202/general%20filter.jpeg)
+
+- Resultado
+
+![Solucion](https://github.com/OsvaldoRodriguez/INF-354-2-23-IA-PRIMER-PARCIAL/blob/master/PREGUNTA%205/PREPROCESAMIENTO%202/resultado.jpeg)
+
+
+![Solucion](https://github.com/OsvaldoRodriguez/INF-354-2-23-IA-PRIMER-PARCIAL/blob/master/PREGUNTA%205/PREPROCESAMIENTO%202/resultado2.jpeg)
+
+
+![Solucion](https://github.com/OsvaldoRodriguez/INF-354-2-23-IA-PRIMER-PARCIAL/blob/master/PREGUNTA%205/PREPROCESAMIENTO%202/resultado3.jpeg)
+
 # 3. Preprocesamiento
 # 4. Preprocesamiento
