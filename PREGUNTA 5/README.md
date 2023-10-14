@@ -23,3 +23,24 @@
 
 
 
+# 1. Preprocesamiento Discretize
+
+- Explicación del filtro
+
+[Solucion](https://github.com/OsvaldoRodriguez/INF-354-2-23-IA-PRIMER-PARCIAL/blob/master/PREGUNTA%205/PREPROCESAMIENTO%201/explicacion.txt)
+
+- Detalles del filtro
+
+![Solucion](https://github.com/OsvaldoRodriguez/INF-354-2-23-IA-PRIMER-PARCIAL/blob/master/PREGUNTA%205/PREPROCESAMIENTO%201/filter.jpeg)
+
+- Vista general del filtro
+
+![Solucion](https://github.com/OsvaldoRodriguez/INF-354-2-23-IA-PRIMER-PARCIAL/blob/master/PREGUNTA%205/PREPROCESAMIENTO%201/vista%20general.jpeg)
+
+- Resultado
+
+![Solucion](https://github.com/OsvaldoRodriguez/INF-354-2-23-IA-PRIMER-PARCIAL/blob/master/PREGUNTA%205/PREPROCESAMIENTO%201/resultado.jpeg)
+
+# 2. Preprocesamiento
+# 3. Preprocesamiento
+# 4. Preprocesamiento
