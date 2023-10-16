@@ -1,0 +1,2 @@
+8. Del dataset de citas obtenida en la clase.
+Realice el calculo en excel para obtener el arbol de decisió, grafique el el arbol.
